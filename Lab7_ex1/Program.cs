@@ -67,7 +67,7 @@ namespace Lab7_ex1
                                     {
                                         contactno = int.Parse(Console.ReadLine()),
                                         contactname = Console.ReadLine(),
-                                        cellno = Console.ReadLine()
+                                        
                                     }
 
 
